@@ -1,0 +1,12 @@
+<h1>Awesome User List</h1>
+
+<div class="info">
+  <h3>ID</h3>
+  <h3>Username</h3>
+</div>
+<ng-container *ngFor="let item of list">
+  <div class="userlist">
+    <td>{{ item.id }}</td>
+    <td>{{ item.username }}</td>
+  </div>
+</ng-container>

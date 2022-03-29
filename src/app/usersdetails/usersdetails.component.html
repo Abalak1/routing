@@ -1,0 +1,18 @@
+<h1>Awesome User Details</h1>
+
+<div class="info">
+  <h3>ID</h3>
+  <h3>Username</h3>
+  <h3>FirstName</h3>
+  <h3>Last Name</h3>
+  <h3>About Me</h3>
+</div>
+<ng-container *ngFor="let item of details">
+  <div class="userlist">
+    <td>{{ item.id }}</td>
+    <td>{{ item.username }}</td>
+    <td>{{ item.firstName }}</td>
+    <td>{{ item.lastName }}</td>
+    <td>{{ item.aboutMe }}</td>
+  </div>
+</ng-container>

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "username": "bazera",
+    "firstName": "Giorgi",
+    "lastName": "Bazerashvili",
+    "aboutMe": "About Bazera"
+  },
+  {
+    "id": 2,
+    "username": "bondo",
+    "firstName": "bondoia",
+    "lastName": "bondini",
+    "aboutMe": "About bondo"
+  },
+  {
+    "id": 3,
+    "username": "lolo",
+    "firstName": "lola",
+    "lastName": "lolaiala",
+    "aboutMe": "About lolo"
+  },
+  {
+    "id": 4,
+    "username": "dodo",
+    "firstName": "dodlina",
+    "lastName": "dodunana",
+    "aboutMe": "About dodo"
+  }
+]
